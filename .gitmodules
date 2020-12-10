@@ -1,0 +1,4 @@
+[submodule "docker-ubuntu-vnc-desktop"]
+	path = docker-ubuntu-vnc-desktop
+	url = https://github.com/fcwu/docker-ubuntu-vnc-desktop
+    branch = master
